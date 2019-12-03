@@ -2472,7 +2472,7 @@
                 "symfony/config": "~4.2",
                 "symfony/dependency-injection": "~3.4|~4.0",
                 "symfony/expression-language": "~3.4|~4.0",
-                "symfony/http-foundation": "~3.4|~4.0",
+                "symfony/http-foundation": "~3.4|~4.3.8",
                 "symfony/yaml": "~3.4|~4.0"
             },
             "suggest": {
